@@ -1,0 +1,13 @@
+{
+  "name": "studies-dream-php",
+  "version": "1.0.0",
+  "description": "PHP application source code",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'No build required for PHP'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
